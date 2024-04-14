@@ -14,7 +14,7 @@
 ---
 
 ### 칵테일러 - 조주기능사 레시피 (2022)
-<a href="https://github.com/Sundrago/Cocktailor"><img src="https://github.com/Sundrago/Sundrago/blob/a1b79f9492e0ca304fca729328c16acd82d9bce0/6ab3b553-21b1-4bc0-9a98-4d1942cf4b08_rw_1200.jpg" width="500" ></a>
+<a href="https://github.com/Sundrago/Cocktailor"><img src="https://github.com/Sundrago/Cocktailor/blob/b77633cc39ea72225df88e9dfa088b5d06432bf5/Docs/cocktailor_thumbnail.jpg" width="500" ></a>
 - Source Codes : [Link](https://github.com/Sundrago/Cocktailor)
 - Download : [iOS](https://apple.co/3ijIa9V) / [AOS](https://play.google.com/store/apps/details?id=net.sundragon.cocktail)
 
