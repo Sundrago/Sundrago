@@ -1,15 +1,25 @@
 ## Unity Projects
 ### Dynamic Games (2023)
 <a href="https://github.com/Sundrago/DynamicGames"><img src="https://github.com/Sundrago/Sundrago/blob/d7547594a89bdeba961badb79c57d2613a73ddfc/8ab3b553-21b1-4bc0-9a98-4d1942cf4b08_rw2_1200.jpg" width="500" ></a>
-- 누적 인스톨 : 10k+
-- D1리텐션 : 35%+
-- Source Codes : [Link](https://github.com/Sundrago/DynamicGames) | Download : [iOS](https://apps.apple.com/us/app/dynamic-games-games-on-island/id6443782791)
+- Source Codes : [Link](https://github.com/Sundrago/DynamicGames)
+- Download : [iOS](https://apps.apple.com/us/app/dynamic-games-games-on-island/id6443782791)
+
+---
 
 ### 포켓볼빵 : 더 게임 (2022)
 <a href="https://github.com/Sundrago/PocketBbang"><img src="https://github.com/Sundrago/Sundrago/blob/d7547594a89bdeba961badb79c57d2613a73ddfc/8ab3b553-21b1-4bc0-9a98-4d1942cf4b08_rw_1200.jpg" width="500" ></a>
-- 누적 인스톨 : 100k+
-- D1리텐션 : 45%+
-- Source Codes : [Link](https://github.com/Sundrago/PocketBbang) | Download : [iOS](https://apps.apple.com/us/app/%ED%8F%AC%EC%BC%93%EB%B3%BC%EB%B9%B5-%EB%8D%94%EA%B2%8C%EC%9E%84/id1617538393) / [AOS](https://play.google.com/store/apps/details?id=net.sundragon.bbang)
+- Source Codes : [Link](https://github.com/Sundrago/PocketBbang)
+- Download : [iOS](https://apps.apple.com/us/app/%ED%8F%AC%EC%BC%93%EB%B3%BC%EB%B9%B5-%EB%8D%94%EA%B2%8C%EC%9E%84/id1617538393) / [AOS](https://play.google.com/store/apps/details?id=net.sundragon.bbang)
+
+---
+
+### 칵테일러 - 조주기능사 레시피 (2022)
+<a href="https://github.com/Sundrago/Cocktailor"><img src="https://github.com/Sundrago/Sundrago/blob/a1b79f9492e0ca304fca729328c16acd82d9bce0/6ab3b553-21b1-4bc0-9a98-4d1942cf4b08_rw_1200.jpg" width="500" ></a>
+- Source Codes : [Link](https://github.com/Sundrago/Cocktailor)
+- Download : [iOS](https://apple.co/3ijIa9V) / [AOS](https://play.google.com/store/apps/details?id=net.sundragon.cocktail)
+
+---
+
 
 <!--
 ## 🔗 Links
