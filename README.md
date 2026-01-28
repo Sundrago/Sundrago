@@ -1,8 +1,7 @@
 ## Unity Projects
 ### Dynamic Games (2023)
-<a href="https://github.com/Sundrago/DynamicGames"><img src="https://github.com/Sundrago/Sundrago/blob/d7547594a89bdeba961badb79c57d2613a73ddfc/8ab3b553-21b1-4bc0-9a98-4d1942cf4b08_rw2_1200.jpg" width="500" ></a>
+<img src="https://github.com/Sundrago/Sundrago/blob/d7547594a89bdeba961badb79c57d2613a73ddfc/8ab3b553-21b1-4bc0-9a98-4d1942cf4b08_rw2_1200.jpg" width="500" ></a>
 - 케주얼 아케이드 모바일 게임 (누적 다운로드 1만명 이상)
-- Source Codes : [Link](https://github.com/Sundrago/DynamicGames)
 - Download : [iOS](https://apps.apple.com/us/app/dynamic-games-games-on-island/id6443782791)
 
 ---
